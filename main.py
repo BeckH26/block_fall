@@ -2,7 +2,6 @@
 # 12/20/23
 __author__ = 'Harrison Beck'
 
-import pygame
 
 pygame.init()
 
