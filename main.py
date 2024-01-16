@@ -2,6 +2,10 @@
 # 12/20/23
 __author__ = 'Harrison Beck'
 
+import time
+import pygame
+import random
+import sys
 
 pygame.init()
 
