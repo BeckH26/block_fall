@@ -2,12 +2,7 @@
 # 12/20/23
 __author__ = 'Harrison Beck'
 
-import os
-import time
 import pygame
-import random
-import sys
-from pygame.locals import *
 
 pygame.init()
 
